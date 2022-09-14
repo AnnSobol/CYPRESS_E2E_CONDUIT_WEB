@@ -10,7 +10,7 @@ Installation on Windows:
 
 Installation on Linux:
 
-   1.[Cypress guide](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Linux)
+   1. [Cypress guide](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Linux)
 
 ## SECOND STEP
 
