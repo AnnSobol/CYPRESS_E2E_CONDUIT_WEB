@@ -412,7 +412,7 @@ describe('Main page (positive)', () => {
       
   });  
 
-  it.only('should allow to post comment for other user articles', () => {
+  it('should allow to post comment for other user articles', () => {
 
     const {comment} = generateCommentData();
 
