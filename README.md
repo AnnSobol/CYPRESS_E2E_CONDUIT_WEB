@@ -1,3 +1,7 @@
+
+# First of all you must read README.md for further instruction
+
+
 Workflow:
 1. Fork the repo.
 1. Clone **your** forked repository.
